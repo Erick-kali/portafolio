@@ -106,7 +106,7 @@ export function LoadingScreen({ currentSection }: LoadingScreenProps) {
           animate={{ opacity: 1 }}
           transition={{ delay: 1.5 }}
         >
-          Preparando experiencia profesional...
+          Preparando portafolio de Erick Arce...
         </motion.p>
       </motion.div>
     </div>
