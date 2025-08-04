@@ -49,7 +49,7 @@ export function InicioSection({ navigateToSection, downloadCV }: InicioSectionPr
               transition={{ rotate: { duration: 20, repeat: Number.POSITIVE_INFINITY, ease: "linear" } }}
             >
               <div className="w-full h-full rounded-full overflow-hidden bg-gray-900">
-                <img src="/foto.png" alt="Erick Arce" className="w-full h-full object-cover" />
+                <img src="/foto.jpg" alt="Erick Arce" className="w-full h-full object-cover" />
 
               </div>
             </motion.div>
