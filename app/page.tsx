@@ -50,7 +50,7 @@ export default function ErickArcePortfolio() {
 
   const downloadCV = () => {
     const link = document.createElement("a")
-    link.href = "/CV  STANLEY-OFICIAL.pdf"
+    link.href = "/CV-STANLEY-FULL-STACK-JUNIOR.pdf"
     link.download = "Erick-Arce-CV.pdf"
     document.body.appendChild(link)
     link.click()
